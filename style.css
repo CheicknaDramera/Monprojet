@@ -1,0 +1,44 @@
+/* Styliser le body : famille et taille de police */
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+}
+
+/* Styliser le header : couleur d’arrière-plan */
+header {
+    background-color: #f0f0f0;
+}
+
+/* Styliser le nav : couleur d’arrière-plan */
+nav {
+    background-color: #dcdcdc;
+}
+
+/* Styliser le main : couleur d’arrière-plan + taille de police */
+main {
+    background-color: #ffffff;
+    font-size: 18px;
+}
+
+/* Styliser le footer : couleur d’arrière-plan */
+footer {
+    background-color: #e0e0e0;
+}
+
+/* Styliser les li : affichage + largeur */
+li {
+    display: inline-block;
+    width: 120px;
+}
+
+/* Styliser le h1 : alignement, police, couleur du texte */
+h1 {
+    text-align: center;
+    font-family: "Trebuchet MS", sans-serif;
+    color: #333333;
+}
+
+/* Styliser les p : hauteur de ligne */
+p {
+    line-height: 1.6;
+}
